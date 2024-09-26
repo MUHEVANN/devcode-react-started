@@ -9,6 +9,7 @@ export const HelloWorld = () => {
       <img data-cy="devcode-logo" src={devcodeLogo} alt="devcode logo" />
       <div data-cy="devcode-title">
         {/* TODO: Tambahkan elemen heading 1 di bawah ini dengan berisi kalimat I'm ready for the next challenge! */}
+        I'm ready for the next challenge!
       </div>
     </div>
   );
